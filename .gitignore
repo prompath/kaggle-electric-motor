@@ -139,3 +139,4 @@ cython_debug/
 
 # Data
 *.csv
+kaggle-electric-motor.7z
